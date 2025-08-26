@@ -1,0 +1,53 @@
+# Arquivos de Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos compilados, objetos e bibliotecas
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.gch
+
+# Executáveis
+# (No Windows, geralmente .exe. No Linux/macOS, podem não ter extensão)
+*.exe
+*.out
+*.app
+
+# Diretórios de build e binários
+build/
+bin/
+obj/
+
+# Arquivos de log e temporários
+*.log
+*.tmp
+*.temp
+
+# Arquivos de configuração de IDEs e Editores
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.vcxproj.user
+
+# CLion / JetBrains
+.idea/
+
+# Code::Blocks
+*.cbp
+*.depend
+
+# Dev-C++
+*.dev
+
+# Arquivos de Debug
+*.stackdump
+core.*
